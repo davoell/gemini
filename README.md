@@ -1,5 +1,3 @@
 # Gemini
-A permissioned blockchain supporting smart contracts and data privacy
-
-# Quorum
-ditto, ditto
+A permissioned blockchain supporting smart contracts and data privacy.
+Have we reached a Quorum?
